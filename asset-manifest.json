@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fc-ani/static/css/main.4a2f366a.css",
+    "main.js": "/fc-ani/static/js/main.b3beeb07.js",
+    "index.html": "/fc-ani/index.html",
+    "main.4a2f366a.css.map": "/fc-ani/static/css/main.4a2f366a.css.map",
+    "main.b3beeb07.js.map": "/fc-ani/static/js/main.b3beeb07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a2f366a.css",
+    "static/js/main.b3beeb07.js"
+  ]
+}
