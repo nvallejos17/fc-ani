@@ -91,7 +91,7 @@ const App = () => {
 
       <Section style={{ minHeight: '100vh' }}>
         <h2>Nos vemos pronto</h2>
-        <Timer targetDate={new Date('2023/04-02')} />
+        <Timer targetDate={new Date('2023-04-02T19:40:00.000Z')} />
         <p>💚</p>
       </Section>
     </>
