@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fc-ani/static/css/main.4a2f366a.css",
-    "main.js": "/fc-ani/static/js/main.b3beeb07.js",
+    "main.js": "/fc-ani/static/js/main.b4163bf5.js",
     "index.html": "/fc-ani/index.html",
     "main.4a2f366a.css.map": "/fc-ani/static/css/main.4a2f366a.css.map",
-    "main.b3beeb07.js.map": "/fc-ani/static/js/main.b3beeb07.js.map"
+    "main.b4163bf5.js.map": "/fc-ani/static/js/main.b4163bf5.js.map"
   },
   "entrypoints": [
     "static/css/main.4a2f366a.css",
-    "static/js/main.b3beeb07.js"
+    "static/js/main.b4163bf5.js"
   ]
 }
